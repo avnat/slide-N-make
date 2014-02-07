@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/HomeScreen.png</file>
+        <file>images/selectimage.png</file>
+        <file>images/selectlevel.png</file>
+        <file>images/about.png</file>
+        <file>images/gamename.png</file>
+        <file>images/instructions.png</file>
+        <file>images/back.png</file>
+        <file>images/backlevel.png</file>
+        <file>images/Bg.png</file>
+        <file>images/easy.png</file>
+        <file>images/hard.png</file>
+        <file>images/label.png</file>
+        <file>images/medium.png</file>
+        <file>images/instructionsBg.png</file>
+        <file>images/aboutBg.png</file>
+        <file>images/done.png</file>
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/3.png</file>
+        <file>images/4.png</file>
+        <file>images/5.png</file>
+        <file>images/6.png</file>
+        <file>images/7.png</file>
+        <file>images/8.png</file>
+        <file>images/9.png</file>
+    </qresource>
+</RCC>

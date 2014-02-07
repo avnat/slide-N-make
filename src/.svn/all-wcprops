@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/slidenmake/!svn/ver/1/src
+END
+GamePad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/slidenmake/!svn/ver/2/src/GamePad.cpp
+END
+LevelView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/slidenmake/!svn/ver/1/src/LevelView.cpp
+END
+HomeView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/slidenmake/!svn/ver/1/src/HomeView.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/slidenmake/!svn/ver/1/src/main.cpp
+END
+AboutView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/slidenmake/!svn/ver/1/src/AboutView.cpp
+END
+CustomButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/slidenmake/!svn/ver/1/src/CustomButton.cpp
+END
+InstructionView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/slidenmake/!svn/ver/1/src/InstructionView.cpp
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/slidenmake/!svn/ver/1/src/mainwindow.cpp
+END
+ImageView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/slidenmake/!svn/ver/1/src/ImageView.cpp
+END
